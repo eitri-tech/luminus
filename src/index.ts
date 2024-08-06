@@ -28,6 +28,7 @@ export { default as Stat } from './components/DataDisplay/Stats/stat';
 export { default as Alert } from './components/Feedback/Alert/alert';
 export { default as Progress } from './components/Feedback/Progress/progress';
 export { default as ProgressRadial } from './components/Feedback/Progress/progressRadial';
+export { default as Tooltip } from './components/Feedback/Tooltip/tooltip';
 
 
 /**
